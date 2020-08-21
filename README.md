@@ -7,4 +7,4 @@ This way, multiple persons will be able to make changes amolst simultaneously an
 It may be the end of asking people for the project file and the changes they have made.
 
 Hope it works just fine and we all enjoy it,
-Cocota.
+Cocota, Rafa
